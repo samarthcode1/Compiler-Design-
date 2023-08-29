@@ -1,0 +1,20 @@
+{
+    int t1 ;
+    int t2 ;
+    t1 = 2 ;
+    while ( t1 < t2 ) {
+    if t2 > 5 
+    then
+        cout ( t2 ) ;
+    else
+    {
+        int t3 ;
+        t3 = 99 ; 
+        t2 = -25 ;
+        /* hello */
+        print ( - t1 + t2 * t3 ) ;
+    }
+    cout ( t1 + t2 * t3 ) ;
+}
+    endif
+}
